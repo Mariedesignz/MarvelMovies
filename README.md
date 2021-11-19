@@ -6,7 +6,9 @@ Introduction This database project is my final project for code Louisville SQL S
 
 Project Description Marvel Movie DataBase
 
-Marvel movie database is a project for watching Marvel movies. You list out the movies yoy want to binge, By rating or runntime.
+Marvel movie database is a project for watching Marvel movies. You can list out the movies you want to binge, By rating or runntime.
+Issues I ran into with this project are using SQl Server for the first time. Using the syantax to create tables.
+What I enjoyed about this project is putting what I have been learning to use and creating a database out of one of my hobbies.
 
 Featured List: 
 
@@ -16,4 +18,4 @@ Group 2: Write a DML statement that DELETEs a set of rows with a WHERE clause. T
 
 Group 3: Design a NONCLUSTERED INDEX with ONE KEY COLUMN that improves the performance of one of the above queries.
 
-Instructions for Running: Clone project or open zipfile, Using MySQL Run file
+Instructions for Running: Clone project or open zipfile, Using MySQL Run MarvelProject file. Run the entire file. 
